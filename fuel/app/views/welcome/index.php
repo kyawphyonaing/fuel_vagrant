@@ -37,8 +37,8 @@
 	</header>
 	<div class="container">
 		<div class="jumbotron">
-			<h1>Welcome!</h1>
-			<p>You have successfully installed the FuelPHP Framework.</p>
+			<h1>Welcome to Our MOKUBEN KAI!</h1>
+			<p>You have successfully oneday.</p>
 			<p><a class="btn btn-primary btn-lg" href="http://docs.fuelphp.com">Read the Docs</a></p>
 		</div>
 		<div class="row">
